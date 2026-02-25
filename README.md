@@ -69,10 +69,15 @@ plt.title("Customer Segments")
 
 ## Output:
 <img width="785" height="621" alt="ML10 1" src="https://github.com/user-attachments/assets/4b8a2418-fde1-4811-b766-5fffd4f94048" />
+
 <img width="770" height="287" alt="ML10 2" src="https://github.com/user-attachments/assets/707b244f-5b74-490a-b2ee-6ad3d73c6fa9" />
+
 <img width="597" height="319" alt="ML10 3" src="https://github.com/user-attachments/assets/6b4d1b6e-ca4f-4084-9943-dada692e00c5" />
+
 <img width="357" height="329" alt="ML10 4" src="https://github.com/user-attachments/assets/1df07b5c-5470-4c5b-b0ca-5ae49adf8335" />
+
 <img width="877" height="566" alt="ML10 5" src="https://github.com/user-attachments/assets/151acd4d-1b32-4ece-b368-e5c7dc3e060f" />
+
 <img width="826" height="546" alt="ML10 6" src="https://github.com/user-attachments/assets/d4a87fe5-28a6-47e0-ba48-08d631fcf6d6" />
 
 
